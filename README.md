@@ -32,5 +32,5 @@ Transforms complex loan data into actionable intelligence, supporting:
 - Loan Officers
 
 ## 📷 Dashboard Preview
-![Dashboard Images](./loan-dashboard-overview.png)  
-![Dashboard Images](./loan-dashboard-summary.png)
+![Dashboard Overview](Dashboard%20Images/loan-dashboard-overview.png)  
+![Dashboard Summary](Dashboard%20Images/loan-dashboard-summary.png)
