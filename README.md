@@ -9,7 +9,7 @@ The dashboard offers a holistic view, allowing users to:
 - Monitor loan portfolio performance
 - Track financial metrics in real-time
 - Assess loan issuance health
-- 
+  
 ### Visualization Insights
 Provides detailed perspectives through:
 - Monthly trend analysis
@@ -32,5 +32,5 @@ Transforms complex loan data into actionable intelligence, supporting:
 - Loan Officers
 
 ## 📷 Dashboard Preview
-![Loan Dashboard Overview](./loan-dashboard-overview.png)
-![Loan Dashboard Summary](./loan-dashboard-summary.png)
+![Dashboard Images](./loan-dashboard-overview.png)  
+![Dashboard Images](./loan-dashboard-summary.png)
